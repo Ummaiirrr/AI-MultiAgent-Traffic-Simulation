@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit local configurations
+.streamlit/
+
+# Datasets & large files (Keep your repository lightweight)
+Metro_Interstate_Traffic_Volume.csv.gz
+Metro_Interstate_Traffic_Volume.csv
+traffic_clean.csv
+
+# Matplotlib generated image assets (Optional, if you re-generate them live)
+*.png
+
+# Virtual environments
+venv/
+ENV/
+env/
