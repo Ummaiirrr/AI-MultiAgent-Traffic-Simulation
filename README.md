@@ -3,7 +3,7 @@
 
 A complete, modular AI system that simulates city traffic using autonomous vehicle agents,
 an A* informed search algorithm, and an MLP/KNN machine learning predictor trained on a
-50,000-record synthetic dataset modelled after the UCI Metro Interstate Traffic Volume dataset.
+50,000-record synthetic dataset is used and modelled after the UCI Metro Interstate Traffic Volume dataset.
 
 ---
 
